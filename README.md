@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**relue271/relue271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**relue271** is a ✨ _special_ ✨ guy and awesome student in computer science
 
 Here are some ideas to get you started:
 
