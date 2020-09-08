@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning development and games like python, C, React, HTML, CSS, 
+- 🌱 I’m currently learning development and games like Python, C, React, HTML, CSS, Pascal,
 - 💬 Ask me about program languages and games
 - ⚡ Fun: reading pdf books and netflix
 - I want to develop: my projects
