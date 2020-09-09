@@ -1,15 +1,15 @@
-### Hi there 👋
+### Hi there;   What's up;   Show me the code;   Follow me;   Ask me something;   Learn a lot; 👋
 
 
 **relue271** is a ✨ _special_ ✨guy and awesome professional of computer science
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning development and games like Python, C, React, HTML, CSS, Pascal,
-- 💬 Ask me about program languages and games
-- ⚡ Fun: reading pdf books and netflix
-- I want to develop: my projects
+- 🌱 I’m currently learning development and games like Python, C, React, HTML, CSS, Pascal, 
+
+
+
+
 
 
 
