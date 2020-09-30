@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning development and games like Python, C, React, HTML, CSS, Pascal, 
+- 🌱 I’m currently learning development and games like Python, C, Pascal, 
 
 
 
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 
 
 <!-- 
+
+React, HTML, CSS,
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning development and games, ...
