@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning development and games like Python, C, Pascal, 
-
+- 🌱 I’m develed Python, C, Pascal, 
+- 🌱 I’m currently learning development reactJS,NodeJS,react native,JS,
+- 🌱 I'm currently learning dev games godot
 
 
 
@@ -18,7 +19,6 @@ Here are some ideas to get you started:
 React, HTML, CSS,
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning development and games, ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about program languages and games
@@ -26,5 +26,11 @@ React, HTML, CSS,
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - I want to develop: ...
+
+
+https://sites.google.com/view/eulergustavogoncalves/home
+https://relue271.blogspot.com/
+
+
 
 -->
