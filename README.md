@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m developed Python, C, Pascal, 
-- 🌱 I’m currently learning development JavaScript, NodeJS, ReactJS, React Native, php7
+- 🌱 I’m currently learning development JavaScript, NodeJS, ReactJS, React Native, PHP, HTML, CSS
 - 🌱 I'm currently learning development games godot
 
 
