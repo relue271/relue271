@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-relue271-38BDAE?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/euler-gon%C3%A7alves-52a10558/)](https://www.linkedin.com/in/euler-gonçalves-52a10558/)  
 [![Gmail Badge](https://img.shields.io/badge/relue271-38BDAE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goncalves.euler@gmail.com)](mailto:goncalves.euler@gmail.com)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=relue271)
 
 
 **relue271** is a ✨ _special_ ✨guy and awesome professional of computer science
