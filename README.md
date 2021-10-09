@@ -10,9 +10,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m developed Python, C, Pascal,
-- 🌱 I’m currently learning development PHP, HTML, CSS, JavaScript, NodeJS, ReactJS, React Native
-- 🌱 I'm currently learning development games godot
+- 🌱 I’m developed: Python, C, Pascal,
+- 🌱 I’m currently learning development: Java
+- 🌱 I'm currently learning development game:
 
  #OpenToSee
 
