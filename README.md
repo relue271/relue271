@@ -10,9 +10,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m developed: Python, C, Pascal,
-- 🌱 I’m currently learning development: Java
-- 🌱 I'm currently learning development game:
+- 🌱 I’m developed: Python, C, Pascal, java,
+- 🌱 I’m currently learning development: edx cs50
+- 🌱 I'm currently learning development game: ping pong game
 
  #OpenToSee
 
