@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m developed: Python, C, Pascal, java,
 - 🌱 I’m currently learning development: edx cs50
-- 🌱 I'm currently learning development game: pedra papel tisoura
+- 🌱 I'm currently learning development game: pedra papel tesoura
+- 
  #OpenToSee
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=relue271&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
