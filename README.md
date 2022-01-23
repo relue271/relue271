@@ -6,7 +6,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=relue271)
 
 
-**relue271** is a ✨ _special_ ✨guy and awesome professional of computer science
+**relue271** is a ✨ _special_ ✨  I'm a man and awesome professional of computer science.
+
+
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
 
 Here are some ideas to get you started:
 
