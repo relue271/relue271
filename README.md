@@ -41,7 +41,7 @@ You can reach me at  [![Gmail Badge](https://img.shields.io/badge/relue271-38BDA
 
 
 
-# Good by, see you next week
+# Good by, see you soon
 
 
 
