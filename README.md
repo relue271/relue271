@@ -23,11 +23,7 @@ I'm Euler, a Software Engineer at ...
 
 ## Contact Me
 
-You can reach me at  [![Gmail Badge](https://img.shields.io/badge/relue271-38BDAE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goncalves.euler@gmail.com)](mailto:goncalves.euler@gmail.com)
-
-or
-
-[![Linkedin Badge](https://img.shields.io/badge/-relue271-38BDAE?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/euler-gon%C3%A7alves-52a10558/)](https://www.linkedin.com/in/euler-gonçalves-52a10558/)  
+You can reach me at  [![Gmail Badge](https://img.shields.io/badge/relue271-38BDAE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goncalves.euler@gmail.com)](mailto:goncalves.euler@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-relue271-38BDAE?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/euler-gon%C3%A7alves-52a10558/)](https://www.linkedin.com/in/euler-gonçalves-52a10558/)  
 
 
 
@@ -35,18 +31,28 @@ or
 
 
 
-
-
-
+## About my profile
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=relue271&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=relue271&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=relue271)
+
+
+
+# Good by, see you next week
+
+
+
+
+
+
+
+
+
+<!-- 
+
 
 
 **relue271** is a ✨ _special_ ✨ 
@@ -55,7 +61,6 @@ or
 
 
 
-<!-- 
 
 
 
